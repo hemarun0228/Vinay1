@@ -1,2 +1,10 @@
 This is the first file created under rushtovinay/Vinay1
 Done by Biplab
+1- Creating a file (Workspace)
+2- Until and unless I dont save it- this file location will be termed as "File
+is residing in GIT staging area.
+3- To make git track this particular file only from my Desktop, when i have many files already.
+   git add filename- make git track this particular file only
+4- I will save this file to local git repo using the below command:
+    git commit -m "any message"
+5- Then we push it to remote repository(server)
